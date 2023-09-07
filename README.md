@@ -1,4 +1,4 @@
-<h1>Hi! My name is Gisele, an <a href="https://linkedin.com/in/Gisele-n">IT Professional</a>☺</h1>
+<h1>Hi! My name is Gisele, an <a href="https://linkedin.com/gisèle-n-16722927b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
